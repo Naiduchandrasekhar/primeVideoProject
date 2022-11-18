@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.primeVideoImage {
+  width: 100%;
+}
+
+.mainBg {
+  min-height: 100vh;
+  background-color: #000000;
+  color: #ffffff;
+  padding-bottom: 30px;
+}
+
+.itemsDiv {
+  width: 100%;
+  margin: auto;
+  max-width: 1100px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.thumbnail {
+  cursor: pointer;
+}
+
+.video {
+  height: 300px;
+  width: 500px;
+}
+
+.videoContainer {
+  background-color: #ffffff;
+  height: 55vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 10px 10px 30px;
+  border-radius: 13px;
+}
+
+.closeIconButton {
+  align-self: flex-start;
+  font-size: 15px;
+  background-color: transparent;
+  border: none;
+}
